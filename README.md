@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farihahahaa
-- 👀 I’m interested in finance and data analysis
-- 🌱 I’m currently learning java
+- 👀 I’m interested in healthcare and data analysis
+- 🌱 I’m currently learning java, refining my python
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me farihababar02@berkeley.edu or farihababar02@gmail.com
 
